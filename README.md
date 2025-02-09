@@ -26,8 +26,9 @@ Here are some of the tools I’ve been working with:
 🔹 Data Analysis & Visualization
 
 <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40">  
-<img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="Matplotlib" width="40">  
-<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.png" alt="Matplotlib" width="40">  
+<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.png" alt="Seaborn" width="100">  
+
 
 
 🔹 Machine Learning & Deep Learning
