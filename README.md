@@ -13,9 +13,9 @@ Welcome to my little data science corner on GitHub! I’m super into **data, mac
 ### 💻 Technologies & Tools  
 **Python**, **SQL**, **Pandas**, **Matplotlib**, **Seaborn**, **scikit-learn**, **OpenCV**  
 
-### Let’s Connect!  
-📫[**LinkedIn**](https://www.linkedin.com/in/noura-yousef-alhazyim/)  
-📧[**Email**](mailto:nouraalhazyim@gmail.com)  
+### 📫 Let’s Connect!  
+[**LinkedIn**](https://www.linkedin.com/in/noura-yousef-alhazyim/)  
+[**Email**](mailto:nouraalhazyim@gmail.com)  
 
 
 <!---
