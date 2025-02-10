@@ -1,7 +1,7 @@
 
 # 👋 Hey, I’m ✨✨ Norah Alhazyim ✨✨
 
-Welcome to my little data science corner on GitHub! I’m super into **data, machine learning, and renewable energy** 🌱🌞. I love analyzing data to uncover insights and solve real-world problems
+Welcome to my little data science corner on GitHub! I’m super into **data, machine learning, and renewable energy** 🌱🌞. I love analyzing data to uncover insights and solve real-world problems🚀
  
 
 ## 🌟 About Me  
