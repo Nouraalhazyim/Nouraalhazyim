@@ -9,7 +9,7 @@ Welcome to my little data science corner on GitHub! I’m super into **data, mac
 🎓 **Graduated x2 Data Science Bootcamps** ( [SDAIA](https://sdaia.gov.sa/en/default.aspx) [/Tuwaiq Academy](https://tuwaiq.edu.sa/) & [SDA](https://sda.edu.sa/ar)  [/ Le Wagon](https://www.lewagon.com/) )
 
 ### 💻 Technologies & Tools  
-**Python**, **SQL**, **Pandas**, **Matplotlib**, **Seaborn**, **scikit-learn**, **OpenCV**  
+**Python**, **SQL**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **scikit-learn**, **OpenCV**, **Keras**, **YOLO**
 
 ### 📫 Let’s Connect!  
 [**LinkedIn**](https://www.linkedin.com/in/noura-yousef-alhazyim/)  
