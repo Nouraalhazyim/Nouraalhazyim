@@ -1,6 +1,7 @@
 
 # 👋 Hey
- 
+My name is Norah Welcome to my little data science corner on GitHub 🪄
+
 ### 🌟 About Me  
 📊 **Data Enthusiast:** Passionate about exploring data to extract valuable insights and build predictive models  
 🧠 **Lifelong Learner:** Always curious about **Artificial Intelligence, Machine Learning, Deep Learning**, and the latest trends                  
