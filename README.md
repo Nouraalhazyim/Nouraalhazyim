@@ -1,11 +1,5 @@
 
 # 👋 Hey
-
-My name is Norah Welcome to my little data science corner on GitHub 🪄 
-
-I’m super into **data, machine learning, and renewable energy** 🌱🌞
-
-I love analyzing data to uncover insights and solve real-world problems🚀
  
 ### 🌟 About Me  
 📊 **Data Enthusiast:** Passionate about exploring data to extract valuable insights and build predictive models  
